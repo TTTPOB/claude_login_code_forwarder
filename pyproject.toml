@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "claude-login-code"
+version = "0.1.0"
+description = ""
+authors = ["tpob"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+telethon = "^1.34.0"
+toml = "^0.10.2"
+imaplib2 = "^3.6"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

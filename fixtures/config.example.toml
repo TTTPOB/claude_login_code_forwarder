@@ -1,0 +1,10 @@
+[email]
+host = "imap.example.com"
+user = "your_email@example.com"
+password = "notsecure"
+
+[telegram]
+api_id = "123456"
+api_hash = "xxyyaabb"
+bot_token = "123456:xxxxxx"
+channel_id = -123456789
